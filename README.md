@@ -1,3 +1,5 @@
+Scope
+
 Evaluating data Generation methodologies for fine-tuning LLM
 Summary of Project: The primary goal of the project is to explore and evaluate different data generation methodologies for fine-tuning a large language model (LLM). The aim is to determine which methodology yields the best performance based on specific evaluation metrics.
 Objectives
